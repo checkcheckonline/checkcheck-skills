@@ -1,0 +1,7 @@
+{
+  "name": "checkcheck",
+  "version": "0.1.0",
+  "description": "Скиллы для работы с ЧекЧеком: импорт товаров (маски, баллы) с валидацией по правилам импортера",
+  "author": { "name": "CheckCheck", "url": "https://github.com/checkcheckonline" },
+  "keywords": ["checkcheck", "import", "skills"]
+}

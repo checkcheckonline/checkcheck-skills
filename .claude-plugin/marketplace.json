@@ -1,0 +1,12 @@
+{
+  "name": "checkcheck",
+  "owner": { "name": "CheckCheck", "url": "https://github.com/checkcheckonline" },
+  "description": "Скиллы Claude и ChatGPT для работы с ЧекЧеком: сборка и валидация файлов импорта",
+  "plugins": [
+    {
+      "name": "checkcheck",
+      "source": "./plugins/checkcheck",
+      "description": "Сборка и валидация файлов импорта товаров ЧекЧека из исходников поставщиков"
+    }
+  ]
+}
